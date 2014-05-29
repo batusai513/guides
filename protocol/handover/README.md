@@ -10,7 +10,7 @@ When receiving design comps, review to make sure they include:
 - Tablet and phone versions of background images
 - Content for every Carousel slide
 - Files for all fonts used
-- Favicon and Apple touch icons
+- Favicon and Apple touch icons (also other platform(\richard\))
 - Behavior and states for every UI module
 - Hover and active states for clickable items like links and buttons
 - Empty states for all views
